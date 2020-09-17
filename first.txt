@@ -6,3 +6,4 @@ Gitの練習をしてきます。
 .git status
 .git diff
 ブランチについて学習しています。
+.git checkout -b トピックブランチ名
