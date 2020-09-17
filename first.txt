@@ -7,3 +7,4 @@ Gitの練習をしてきます。
 .git diff
 ブランチについて学習しています。
 .git checkout -b トピックブランチ名
+issue2ブランチ作成、masterブランチへmarge
